@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Guilherme Schlindwein Matiola. I'm **control and automation enginnering** student at Federal University of Santa Catarina and **Full Stack
-Developer** in formation at Driven Education.
+Developer** by Driven Education.
 
 :heavy_check_mark: **Pronouns:** :male_sign:He/Him 
 
