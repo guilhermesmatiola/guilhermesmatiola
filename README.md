@@ -8,6 +8,8 @@ Developer** by Driven Education.
 :heavy_check_mark: **Contact:**
 :e-mail:  guimatiola@gmail.com :telephone_receiver: 5547996993721
 
+🌱 I’m currently learning more about backend and sql database development
+
 :heavy_check_mark: **Some experience in:** 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
