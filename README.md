@@ -7,7 +7,7 @@ My name is Guilherme Schlindwein Matiola. I'm **Full Stack Developer** by Driven
 :heavy_check_mark: **Contact:**
 :e-mail:  guimatiola@gmail.com :telephone_receiver: 5547996993721
 
-🌱 I’m currently learning more about backend and sql database development
+🌱 I’m currently learning more about backend and sql database development and software architeture
 
 :heavy_check_mark: **Some experience in:** 
 
