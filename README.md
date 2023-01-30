@@ -1,8 +1,9 @@
-Nome/Name: Guilherme Schlindwein Matiola.
+##Nome/Name: Guilherme Schlindwein Matiola.
 
-##Olá! / Hi there 👋
+Olá! / Hi there 👋
 
 Eu sou desenvolvedor fullstack pela Driven Education e engenheiro de controle e automação pela Universidade Federal de Santa Catarina.
+
 I'm **Full Stack Developer** by Driven Education and **control and automation enginnering** by Federal University of Santa Catarina.
 
 :heavy_check_mark: **Pronomes:** :male_sign:ele/dele/ **Pronouns:** :male_sign:he/him 
@@ -10,8 +11,9 @@ I'm **Full Stack Developer** by Driven Education and **control and automation en
 :heavy_check_mark: **Contato**/**Contact:**
 :e-mail:  guimatiola@gmail.com :telephone_receiver: 5547996993721
 
-🌱 No momento, se especializando cada vez mais em backend com foco em SQL e arquitetura de software / instrumentação/conexão de sensores de engenharia com Node.js
-🌱 I’m currently learning more about backend and sql database development and software architeture / Node.js connection and integration with sensors used in IOT
+🌱 No momento, se especializando cada vez mais em backend com foco em SQL e arquitetura de software / instrumentação/conexão de sensores de engenharia com Node.js.
+
+🌱 I’m currently learning more about backend and sql database development and software architeture / Node.js connection and integration with sensors used in IOT.
 
 :heavy_check_mark: **Experiência em**/**Some experience in:** 
 
