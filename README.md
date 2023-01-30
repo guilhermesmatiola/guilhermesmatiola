@@ -1,4 +1,4 @@
-##Nome/Name: Guilherme Schlindwein Matiola.
+**Nome/Name: Guilherme Schlindwein Matiola.**
 
 Olá! / Hi there 👋
 
