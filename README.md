@@ -29,7 +29,7 @@ Mobile:
 
 Eng:
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/LADDER-orange?style=for-the-badge&logo=&logoColor=white" /> 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/LADDER-orange?style=for-the-badge&logo=&logoColor=white" />  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fsearch%2Fmatlab-icon%2F&psig=AOvVaw3KBi9NIvec44KkKfod-9wh&ust=1678663393703000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDDvMyC1f0CFQAAAAAdAAAAABAn" />
 
 :heavy_check_mark: **Familiarizado com/Familiarized with:**
 
