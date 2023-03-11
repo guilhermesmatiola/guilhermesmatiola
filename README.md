@@ -1,6 +1,6 @@
 **Nome/Name: Guilherme Schlindwein Matiola**
 
-Olá! / Hi there.👋
+Olá! / Hi there.
 
 Eu sou **desenvolvedor fullstack** pela Driven Education e **engenheiro de controle e automação** pela Universidade Federal de Santa Catarina.
 
