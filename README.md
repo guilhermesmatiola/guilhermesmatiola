@@ -11,9 +11,9 @@ I'm **Full Stack Developer** by Driven Education and **control and automation en
 :heavy_check_mark: **Contato**/**Contact:**
 :e-mail:  guimatiola@gmail.com :telephone_receiver: 5547996993721
 
-🌱 No momento, se especializando cada vez mais em backend com foco em SQL e arquitetura de software / instrumentação/conexão de sensores de engenharia com Node.js.
+🌱 No momento, se especializando cada vez mais em backend com foco em SQL e arquitetura de software / instrumentação/conexão de sensores de engenharia com Node.js, como RFID (mobile), sensores de temperatura, entre outros.
 
-🌱 I’m currently learning more about backend and sql database development and software architeture / Node.js connection and integration with sensors used in IOT.
+🌱 I’m currently learning more about backend and sql database development and software architeture / Node.js connection and integration with sensors used in IOT like RFID (mobile) , thermometers and others.
 
 :heavy_check_mark: **Experiência em/Some experience in:** 
 
