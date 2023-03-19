@@ -11,7 +11,7 @@ I'm **Full Stack Developer** by Driven Education and **control and automation en
 :heavy_check_mark: **Contato**/**Contact:**
 :e-mail:  guimatiola@gmail.com :telephone_receiver: 5547996993721
 
-:point_right: <a href="https://www.linkedin.com/in/guilhermesmatiola/" target=”_blank” >
+:point_right: <a href="https://www.linkedin.com/in/guilhermesmatiola/" target="_blank" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /> 
 </a>
 
