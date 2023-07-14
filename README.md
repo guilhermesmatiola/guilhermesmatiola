@@ -2,7 +2,7 @@
 
 Olá! / Hi there.
 
-Working on Hasar Brasil
+Trabalhando na Hasar Brasil/ Working at Hasar Brazil
 
 Eu sou **desenvolvedor fullstack** pela Driven Education e **engenheiro de controle e automação** pela Universidade Federal de Santa Catarina.
 
