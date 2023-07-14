@@ -2,6 +2,8 @@
 
 Olá! / Hi there.
 
+Working on Hasar Brasil
+
 Eu sou **desenvolvedor fullstack** pela Driven Education e **engenheiro de controle e automação** pela Universidade Federal de Santa Catarina.
 
 I'm **Full Stack Developer** by Driven Education and **control and automation enginnering** by Federal University of Santa Catarina.
